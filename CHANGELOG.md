@@ -4,4 +4,4 @@
 
 ### Added
 
-- fix a bug with hanging startup
+- add support to the new version of IDEs
